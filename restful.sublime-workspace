@@ -1,0 +1,1360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"helloweb\tExample hello webapp"
+			],
+			[
+				"ra",
+				"random_profile"
+			],
+			[
+				"pro",
+				"profile_images"
+			],
+			[
+				"crsf",
+				"ccsrf_token"
+			],
+			[
+				"w3-displ",
+				"w3-display-topright"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"from-",
+				"from-bottom"
+			],
+			[
+				"from",
+				"from-bottom"
+			],
+			[
+				"fr",
+				"from-side"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"au",
+				"authors"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"w3-mar",
+				"w3-margin-bottom"
+			],
+			[
+				"is",
+				"is_private"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"colo",
+				"colory-border5"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"roun",
+				"round-n-close"
+			],
+			[
+				"mixi",
+				"mixin\t@mixin"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"mi",
+				"mixin\t=mixin - with Sass Syntax"
+			],
+			[
+				"mixin",
+				"mixin\t@mixin"
+			],
+			[
+				"w3-cont",
+				"w3-container"
+			],
+			[
+				"ng-",
+				"ng-bind"
+			],
+			[
+				"w3-text-",
+				"w3-text-indigo"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"ques",
+				"questions"
+			],
+			[
+				"re",
+				"remarked"
+			],
+			[
+				"rem",
+				"remarked"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"qui",
+				"quizz"
+			],
+			[
+				"ma",
+				"markdown"
+			],
+			[
+				"H",
+				"HttpResponseNotFound"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"ng-re",
+				"ng-repeat"
+			],
+			[
+				"user",
+				"user_quizzes"
+			],
+			[
+				"use",
+				"user_attempts"
+			],
+			[
+				"u",
+				"user_quizzes"
+			],
+			[
+				"setT",
+				"setTimeout"
+			],
+			[
+				"Qu",
+				"QuizzDoesNotExistError"
+			],
+			[
+				"h1",
+				"h1"
+			],
+			[
+				"w3-ce",
+				"w3-center"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"ins",
+				"instructions"
+			],
+			[
+				"w3-round",
+				"w3-round-large"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"input",
+				"inputt\tinput - text"
+			],
+			[
+				"w3-opac",
+				"w3-opacity-max"
+			],
+			[
+				"w3-op",
+				"w3-opacity-min"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"onload",
+				"onloadend"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"sho",
+				"showScoreRecurAnim"
+			],
+			[
+				"Math",
+				"Math_sin"
+			],
+			[
+				"w3-ma",
+				"w3-margin-top"
+			],
+			[
+				"w3-ju",
+				"w3-justify"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"ng",
+				"ng-bind"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"rg",
+				"rgba\trgba()"
+			],
+			[
+				"getp",
+				"getpixel"
+			],
+			[
+				"w3-con",
+				"w3-container"
+			],
+			[
+				"Ques",
+				"QuestionAttempt"
+			],
+			[
+				"fri",
+				"from_dict"
+			],
+			[
+				"Q",
+				"Question"
+			],
+			[
+				"at",
+				"attemptid"
+			],
+			[
+				"Qui",
+				"QuizzAttempt"
+			],
+			[
+				"User",
+				"UserDoesNotExistError"
+			],
+			[
+				"us",
+				"userid"
+			],
+			[
+				"for",
+				"forloop\tDjango template for loop"
+			],
+			[
+				"Quizz",
+				"QuizzAttempt"
+			],
+			[
+				"w3-b",
+				"w3-button"
+			],
+			[
+				"w3-padd",
+				"w3-padding-small"
+			],
+			[
+				"w3-display",
+				"w3-display-topright"
+			],
+			[
+				"n",
+				"num_attempts_remarked"
+			],
+			[
+				"num",
+				"num_attempts_unremarked"
+			],
+			[
+				"w3-",
+				"w3-monospace"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"w3-le",
+				"w3-left"
+			],
+			[
+				"w",
+				"widthratio\tDjango template widthratio"
+			],
+			[
+				"att",
+				"attempt"
+			],
+			[
+				"w3-x",
+				"w3-xxxlarge"
+			],
+			[
+				"w3-marg",
+				"w3-margin"
+			],
+			[
+				"ng-ch",
+				"ng-checked"
+			],
+			[
+				"w3-red",
+				"w3-pale-red"
+			],
+			[
+				"w3-j",
+				"w3-justify"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"w3-padding",
+				"w3-padding-64"
+			],
+			[
+				"w3-pad",
+				"w3-padding-64"
+			],
+			[
+				"w3-al",
+				"w3-left-align"
+			],
+			[
+				"def",
+				"default="
+			],
+			[
+				"nu",
+				"null="
+			],
+			[
+				"nul",
+				"null="
+			],
+			[
+				"de",
+				"default="
+			],
+			[
+				"on_",
+				"on_delete="
+			],
+			[
+				"on",
+				"on_delete="
+			],
+			[
+				"ga",
+				"gray"
+			],
+			[
+				"w3",
+				"w3-container"
+			],
+			[
+				"transform",
+				"transform"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"top-bar-di",
+				"top-bar-div"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"q",
+				"quizzes"
+			],
+			[
+				"m",
+				"markdown"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"P",
+				"Path"
+			],
+			[
+				"s",
+				"$scope"
+			],
+			[
+				"h3",
+				"h3"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"I",
+				"ImageField"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"pr",
+				"profile_asBytes"
+			],
+			[
+				"df",
+				"span#df"
+			],
+			[
+				"cl",
+				"ng-class"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"Ch",
+				"CharField"
+			],
+			[
+				"sb",
+				"sbookAccount"
+			],
+			[
+				"e",
+				"encoder="
+			],
+			[
+				"J",
+				"JSONEncoder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Windows PowerShell                                                                                                                  \nCopyright (C) 2014 Microsoft Corporation. All rights reserved.                                                                      \n                                                                                                                                    \nPS C:\\restful> go run .                                                                                                             \n[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.                         \n                                                                                                                                    \n[GIN-debug] [WARNING] Running in \"debug\" mode. Switch to \"release\" mode in production.                                              \n - using env:   export GIN_MODE=release                                                                                             \n - using code:  gin.SetMode(gin.ReleaseMode)                                                                                        \n                                                                                                                                    \n[GIN-debug] GET    /                         --> main.getNotes (3 handlers)                                                         \n[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.                                   \nPlease check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.                                \n[GIN-debug] Listening and serving HTTP on localhost:80                                                                              \n[GIN] 2024/06/10 - 19:50:41 |←[97;42m 200 ←[0m|       1.001ms |       127.0.0.1 |←[97;44m GET     ←[0m \"/\"                          \n[GIN] 2024/06/10 - 19:50:42 |←[90;43m 404 ←[0m|            0s |       127.0.0.1 |←[97;44m GET     ←[0m \"/favicon.ico\"               \nexit status 0xc000013a                                                                                                              \nPS C:\\restful> py                                                                                                                   \nPython 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:00:00) [MSC v.1938 32 bit (Intel)] on win32                                    \nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.                                                              \n>>> import colorama                                                                                                                 \n>>> colorama.init()                                                                                                                 \n>>> import os                                                                                                                       \n>>> os.system('cmd')                                                                                                                \nMicrosoft Windows [Version 6.3.9600]                                                                                                \n(c) 2013 Microsoft Corporation. All rights reserved.                                                                                \n                                                                                                                                    \nC:\\restful>go run .                                                                                                                 \n[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.                         \n                                                                                                                                    \n[GIN-debug] [WARNING] Running in \"debug\" mode. Switch to \"release\" mode in production.                                              \n - using env:   export GIN_MODE=release                                                                                             \n - using code:  gin.SetMode(gin.ReleaseMode)                                                                                        \n                                                                                                                                    \n[GIN-debug] GET    /                         --> main.getNotes (3 handlers)                                                         \n[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.                                   \nPlease check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.                                \n[GIN-debug] Listening and serving HTTP on localhost:80                                                                              \n[GIN] 2024/06/10 - 19:52:08 |←[97;42m 200 ←[0m|            0s |       127.0.0.1 |←[97;44m GET     ←[0m \"/\"                          \nexit status 0xc000013a                                                                                                              \n                                                                                                                                    \nC:\\restful>^W",
+			"settings":
+			{
+				"buffer_size": 5466,
+				"line_ending": "Windows",
+				"name": "Windows PowerShell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					185,
+					1,
+					"terminus_render",
+					null,
+					"VwAAAAAAAAAAAAAAEgAAAAAAAACEAAAAV2luZG93cyBQb3dlclNoZWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgEgAAAAAAAACEAAAAAAAAAAAAAACFAAAAAAAAAMMAAAAAAAAAhAAAAENvcHlyaWdodCAoQykgMjAxNCBNaWNyb3NvZnQgQ29ycG9yYXRpb24uIEFsbCByaWdodHMgcmVzZXJ2ZWQuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIMMAAAAAAAAACQEAAAAAAAAAAAAACgEAAAAAAAAKAQAAAAAAAIQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKAQAAAAAAAI4BAAAAAAAAAAAAAI8BAAAAAAAApgEAAAAAAAAXAAAAUFMgQzpccmVzdGZ1bD4gZ28gcnVuIC6mAQAAAAAAABMCAAAAAAAAAAAAABQCAAAAAAAAfwIAAAAAAACEAAAAW0dJTi1kZWJ1Z10gW1dBUk5JTkddIENyZWF0aW5nIGFuIEVuZ2luZSBpbnN0YW5jZSB3aXRoIHRoZSBMb2dnZXIgYW5kIFJlY292ZXJ5IG1pZGRsZXdhcmUgYWxyZWFkeSBhdHRhY2hlZC4gICAgICAgICAgICAgICAgICAgICAgICAgfwIAAAAAAACYAgAAAAAAAAAAAACZAgAAAAAAAJkCAAAAAAAAhAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJkCAAAAAAAAHQMAAAAAAAAAAAAAHgMAAAAAAAB0AwAAAAAAAIQAAABbR0lOLWRlYnVnXSBbV0FSTklOR10gUnVubmluZyBpbiAiZGVidWciIG1vZGUuIFN3aXRjaCB0byAicmVsZWFzZSIgbW9kZSBpbiBwcm9kdWN0aW9uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0AwAAAAAAAKIDAAAAAAAAAAAAAKMDAAAAAAAAygMAAAAAAACEAAAAIC0gdXNpbmcgZW52OiAgIGV4cG9ydCBHSU5fTU9ERT1yZWxlYXNlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgygMAAAAAAAAnBAAAAAAAAAAAAAAoBAAAAAAAAFQEAAAAAAAAhAAAACAtIHVzaW5nIGNvZGU6ICBnaW4uU2V0TW9kZShnaW4uUmVsZWFzZU1vZGUpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFQEAAAAAAAArAQAAAAAAAAAAAAArQQAAAAAAACtBAAAAAAAAIQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCtBAAAAAAAADEFAAAAAAAAAAAAADIFAAAAAAAAfQUAAAAAAACEAAAAW0dJTi1kZWJ1Z10gR0VUICAgIC8gICAgICAgICAgICAgICAgICAgICAgICAgLS0+IG1haW4uZ2V0Tm90ZXMgKDMgaGFuZGxlcnMpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQUAAAAAAAC2BQAAAAAAAAAAAAC3BQAAAAAAABgGAAAAAAAAhAAAAFtHSU4tZGVidWddIFtXQVJOSU5HXSBZb3UgdHJ1c3RlZCBhbGwgcHJveGllcywgdGhpcyBpcyBOT1Qgc2FmZS4gV2UgcmVjb21tZW5kIHlvdSB0byBzZXQgYSB2YWx1ZS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBgGAAAAAAAAOwYAAAAAAAAAAAAAPAYAAAAAAACgBgAAAAAAAIQAAABQbGVhc2UgY2hlY2sgaHR0cHM6Ly9wa2cuZ28uZGV2L2dpdGh1Yi5jb20vZ2luLWdvbmljL2dpbiNyZWFkbWUtZG9uLXQtdHJ1c3QtYWxsLXByb3hpZXMgZm9yIGRldGFpbHMuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCgBgAAAAAAAMAGAAAAAAAAAAAAAMEGAAAAAAAA9wYAAAAAAACEAAAAW0dJTi1kZWJ1Z10gTGlzdGVuaW5nIGFuZCBzZXJ2aW5nIEhUVFAgb24gbG9jYWxob3N0OjgwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg9wYAAAAAAABFBwAAAAAAAAAAAABGBwAAAAAAALAHAAAAAAAAjAAAAFtHSU5dIDIwMjQvMDYvMTAgLSAxOTo1MDo0MSB84oaQWzk3OzQybSAyMDAg4oaQWzBtfCAgICAgICAxLjAwMW1zIHwgICAgICAgMTI3LjAuMC4xIHzihpBbOTc7NDRtIEdFVCAgICAg4oaQWzBtICIvIiAgICAgICAgICAgICAgICAgICAgICAgICAgsAcAAAAAAADKBwAAAAAAAAAAAADLBwAAAAAAAEAIAAAAAAAAjAAAAFtHSU5dIDIwMjQvMDYvMTAgLSAxOTo1MDo0MiB84oaQWzkwOzQzbSA0MDQg4oaQWzBtfCAgICAgICAgICAgIDBzIHwgICAgICAgMTI3LjAuMC4xIHzihpBbOTc7NDRtIEdFVCAgICAg4oaQWzBtICIvZmF2aWNvbi5pY28iICAgICAgICAgICAgICAgQAgAAAAAAABPCAAAAAAAAAAAAABQCAAAAAAAAGYIAAAAAAAAhAAAAGV4aXQgc3RhdHVzIDB4YzAwMDAxM2EgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYIAAAAAAAA1AgAAAAAAAAAAAAA1QgAAAAAAADmCAAAAAAAABEAAABQUyBDOlxyZXN0ZnVsPiBweeYIAAAAAAAAWQkAAAAAAAAAAAAAWgkAAAAAAAC6CQAAAAAAAIQAAABQeXRob24gMy4xMS45ICh0YWdzL3YzLjExLjk6ZGU1NGNmNSwgQXByICAyIDIwMjQsIDEwOjAwOjAwKSBbTVNDIHYuMTkzOCAzMiBiaXQgKEludGVsKV0gb24gd2luMzIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICC6CQAAAAAAAN4JAAAAAAAAAAAAAN8JAAAAAAAAJQoAAAAAAACEAAAAVHlwZSAiaGVscCIsICJjb3B5cmlnaHQiLCAiY3JlZGl0cyIgb3IgImxpY2Vuc2UiIGZvciBtb3JlIGluZm9ybWF0aW9uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJQoAAAAAAABjCgAAAAAAAAAAAABkCgAAAAAAAHcKAAAAAAAAEwAAAD4+PiBpbXBvcnQgY29sb3JhbWF3CgAAAAAAAOgKAAAAAAAAAAAAAOkKAAAAAAAA/AoAAAAAAAATAAAAPj4+IGNvbG9yYW1hLmluaXQoKfwKAAAAAAAAbQsAAAAAAAAAAAAAbgsAAAAAAAB7CwAAAAAAAA0AAAA+Pj4gaW1wb3J0IG9zewsAAAAAAADyCwAAAAAAAAAAAADzCwAAAAAAAAcMAAAAAAAAFAAAAD4+PiBvcy5zeXN0ZW0oJ2NtZCcpBwwAAAAAAAB3DAAAAAAAAAAAAAB4DAAAAAAAAJwMAAAAAAAAhAAAAE1pY3Jvc29mdCBXaW5kb3dzIFtWZXJzaW9uIDYuMy45NjAwXSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJwMAAAAAAAA/AwAAAAAAAAAAAAA/QwAAAAAAAAxDQAAAAAAAIQAAAAoYykgMjAxMyBNaWNyb3NvZnQgQ29ycG9yYXRpb24uIEFsbCByaWdodHMgcmVzZXJ2ZWQuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxDQAAAAAAAIENAAAAAAAAAAAAAIINAAAAAAAAgg0AAAAAAACEAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAggg0AAAAAAAAGDgAAAAAAAAAAAAAHDgAAAAAAABoOAAAAAAAAEwAAAEM6XHJlc3RmdWw+Z28gcnVuIC4aDgAAAAAAAIsOAAAAAAAAAAAAAIwOAAAAAAAA9w4AAAAAAACEAAAAW0dJTi1kZWJ1Z10gW1dBUk5JTkddIENyZWF0aW5nIGFuIEVuZ2luZSBpbnN0YW5jZSB3aXRoIHRoZSBMb2dnZXIgYW5kIFJlY292ZXJ5IG1pZGRsZXdhcmUgYWxyZWFkeSBhdHRhY2hlZC4gICAgICAgICAgICAgICAgICAgICAgICAg9w4AAAAAAAAQDwAAAAAAAAAAAAARDwAAAAAAABEPAAAAAAAAhAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBEPAAAAAAAAlQ8AAAAAAAAAAAAAlg8AAAAAAADsDwAAAAAAAIQAAABbR0lOLWRlYnVnXSBbV0FSTklOR10gUnVubmluZyBpbiAiZGVidWciIG1vZGUuIFN3aXRjaCB0byAicmVsZWFzZSIgbW9kZSBpbiBwcm9kdWN0aW9uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDsDwAAAAAAABoQAAAAAAAAAAAAABsQAAAAAAAAQhAAAAAAAACEAAAAIC0gdXNpbmcgZW52OiAgIGV4cG9ydCBHSU5fTU9ERT1yZWxlYXNlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQhAAAAAAAACfEAAAAAAAAAAAAACgEAAAAAAAAMwQAAAAAAAAhAAAACAtIHVzaW5nIGNvZGU6ICBnaW4uU2V0TW9kZShnaW4uUmVsZWFzZU1vZGUpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIMwQAAAAAAAAJBEAAAAAAAAAAAAAJREAAAAAAAAlEQAAAAAAAIQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAlEQAAAAAAAKkRAAAAAAAAAAAAAKoRAAAAAAAA9REAAAAAAACEAAAAW0dJTi1kZWJ1Z10gR0VUICAgIC8gICAgICAgICAgICAgICAgICAgICAgICAgLS0+IG1haW4uZ2V0Tm90ZXMgKDMgaGFuZGxlcnMpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg9REAAAAAAAAuEgAAAAAAAAAAAAAvEgAAAAAAAJASAAAAAAAAhAAAAFtHSU4tZGVidWddIFtXQVJOSU5HXSBZb3UgdHJ1c3RlZCBhbGwgcHJveGllcywgdGhpcyBpcyBOT1Qgc2FmZS4gV2UgcmVjb21tZW5kIHlvdSB0byBzZXQgYSB2YWx1ZS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJASAAAAAAAAsxIAAAAAAAAAAAAAtBIAAAAAAAAYEwAAAAAAAIQAAABQbGVhc2UgY2hlY2sgaHR0cHM6Ly9wa2cuZ28uZGV2L2dpdGh1Yi5jb20vZ2luLWdvbmljL2dpbiNyZWFkbWUtZG9uLXQtdHJ1c3QtYWxsLXByb3hpZXMgZm9yIGRldGFpbHMuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAYEwAAAAAAADgTAAAAAAAAAAAAADkTAAAAAAAAbxMAAAAAAACEAAAAW0dJTi1kZWJ1Z10gTGlzdGVuaW5nIGFuZCBzZXJ2aW5nIEhUVFAgb24gbG9jYWxob3N0OjgwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbxMAAAAAAAC9EwAAAAAAAAAAAAC+EwAAAAAAACgUAAAAAAAAjAAAAFtHSU5dIDIwMjQvMDYvMTAgLSAxOTo1MjowOCB84oaQWzk3OzQybSAyMDAg4oaQWzBtfCAgICAgICAgICAgIDBzIHwgICAgICAgMTI3LjAuMC4xIHzihpBbOTc7NDRtIEdFVCAgICAg4oaQWzBtICIvIiAgICAgICAgICAgICAgICAgICAgICAgICAgKBQAAAAAAABCFAAAAAAAAAAAAABDFAAAAAAAAFkUAAAAAAAAAAAAAFkUAAAAAAAAxxQAAAAAAAAAAAAAxxQAAAAAAADIFAAAAAAAAAAAAADIFAAAAAAAAMgUAAAAAAAAAAAAAMgUAAAAAAAATBUAAAAAAAAAAAAATBUAAAAAAABNFQAAAAAAAAAAAABNFQAAAAAAAFoVAAAAAAAAAAAAAFoVAAAAAAAA0RUAAAAAAAAAAAAAWhUAAAAAAABaFQAAAAAAAHcAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAKREAAAAAAAApEQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Sbook",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/subliminal/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sass.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sass.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: D",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: Add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"\nd",
+			"\nimport socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49491))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/restful"
+	],
+	"file_history":
+	[
+		"/C/restful/main.go",
+		"/C/go-test/main.go",
+		"/C/todo-app/templates/index.tmpl",
+		"/C/go-test/server/main.go",
+		"/C/todo-app/main.go",
+		"/C/Sbook/staticfiles/scripts/response.js",
+		"/C/Sbook/staticfiles/styles/w3.css",
+		"/C/Sbook/image/gen-linkedin.py",
+		"/C/Sbook/staticfiles/styles/base.sass",
+		"/C/Sbook/quizz/views.py",
+		"/C/Sbook/quizz/templates/quizz-new.django",
+		"/C/Sbook/staticfiles/styles/quizz-styles.sass",
+		"/C/Sbook/quizz/accounts.py",
+		"/C/Sbook/quizz/templates/quizz-main.django",
+		"/C/Sbook/image/gen.py",
+		"/C/Sbook/image/quizz-header.png",
+		"/C/Sbook/quizz/urls.py",
+		"/C/Sbook/quizz/templates/quizz-dashboard.django",
+		"/C/Sbook/staticfiles/scripts/angular.min.js",
+		"/C/sublime_text/Data/Packages/subliminal/subliminal-qndroid.sublime-syntax",
+		"/C/Sbook/sbook/accounts.py",
+		"/C/Windows/glance.bat",
+		"/C/glance/internal/feed/polygon.go",
+		"/C/Sbook/note/accounts.py",
+		"/C/Sbook/sbook/settings.py",
+		"/C/Sbook/profile_images.py",
+		"/C/Sbook/note/views.py",
+		"/C/Sbook/quizz/models.py",
+		"/C/Sbook/quizz/templates/quizz-attempt-view-part.django",
+		"/C/Sbook/quizz/templates/quizz-attempt-view-remarks.django",
+		"/C/Sbook/sbook/urls.py",
+		"/C/Sbook/quizz/templates/quizz-view-part.django",
+		"/C/Sbook/sbook/templates/signup.django",
+		"/C/Sbook/sbook/templates/signin.django",
+		"/C/Sbook/api/settings.py",
+		"/C/Sbook/quizz/templates/quizz-preview.django",
+		"/C/Sbook/quizz/templates/quizz-attempt.django",
+		"/C/Sbook/quizz/templates/quizz-attempt-review.django",
+		"/C/Sbook/quizz/templates/view-quizz-attempts.django",
+		"/C/Sbook/README.md",
+		"/C/Sbook/staticfiles/styles/quizz-styles.css",
+		"/C/Sbook/sbook/templates/dashboard.django",
+		"/C/Users/CHEF SEC/dashing-test.py",
+		"/C/Sbook/sbook/templates/captcha.django",
+		"/C/Sbook/staticfiles/styles/styles.sass",
+		"/C/Sbook/image/back-dark-dashy.png",
+		"/C/Sbook/image/back-dark-vertical.png",
+		"/C/Sbook/image/back-light-vertical.png",
+		"/C/Sbook/image/back-vertical.png",
+		"/C/Sbook/image/back-light.png",
+		"/C/Sbook/image/back.png",
+		"/C/Sbook/sbook/templates/index.django",
+		"/C/Sbook/image/back-5.png",
+		"/C/Sbook/sbook/templates/markdown-entry.django",
+		"/C/Users/CHEF SEC/new",
+		"/C/Sbook/quizz/templates/test.cpp",
+		"/C/Sbook/sbook/templatetags/markdown.py",
+		"/C/Sbook/build.sh",
+		"/C/Sbook/requirements.txt",
+		"/C/Sbook/chatty/views.py",
+		"/C/Sbook/staticfiles/styles/chatty-styles.sass",
+		"/C/Sbook/note/templates/note-main.django",
+		"/C/Sbook/note/templates/note-dashboard.django",
+		"/C/Sbook/chatty/templates/rooms-list.django",
+		"/C/Sbook/chatty/templates/room-view.django",
+		"/C/Sbook/chatty/templates/room-create.django",
+		"/C/Sbook/chatty/templates/chatty-main.django",
+		"/C/Sbook/chatty/chatty-index.html",
+		"/C/Sbook/sbook/views.py",
+		"/C/Sbook/sbook/templates/main.django",
+		"/C/Sbook/staticfiles/styles/base.css",
+		"/C/Sbook/staticfiles/styles/styles.css",
+		"/C/Sbook/quizz/templates/quizz-attempted.django",
+		"/C/Sbook/quizz/templates/quizz-browse.django",
+		"/C/Sbook/staticfiles/styles/w3.css.map",
+		"/C/Sbook/quizz/admin.py",
+		"/C/sublime_text/Data/Packages/w3css/w3.sublime-completions",
+		"/C/Users/CHEF SEC/AppData/Roaming/Python/Python311-32/site-packages/arcade/examples/transform_feedback.py",
+		"/C/Sbook/sbook/models.py",
+		"/C/NSIS/Docs/AdvSplash/advsplash.txt",
+		"/C/sublime_text/Data/Packages/subliminal/py_complete.py",
+		"/C/sublime_text/Data/Packages/subliminal/subliminal.py",
+		"/C/sublime_text/Data/Packages/JavaScript Completions/sublime-completions/Array.sublime-settings",
+		"/C/Sbook/fontawesome-free-6.5.2-web/fontawesome-free-6.5.2-web/scss/fontawesome.scss",
+		"/C/Sbook/fontawesome-free-6.5.2-web/fontawesome-free-6.5.2-web/scss/regular.scss",
+		"/C/Sbook/sbook/templatetags/__init__.py",
+		"/C/Sbook/classroom/models.py",
+		"/C/Sbook/note/models.py",
+		"/C/pyoload/src/del.py",
+		"/C/pyoload/src/pyoload/__init__.py",
+		"/C/Sbook/note/urls.py",
+		"/C/Sbook/staticfiles/styles/make.bat",
+		"/C/sublime_text/Data/Packages/User/sass.sublime-build",
+		"/C/Sbook/quizz/forms.py",
+		"/C/Sbook/sbook/templates/google-analytics.django",
+		"/C/Sbook/test-question.del.json",
+		"/C/Sbook/note/admin.py",
+		"/C/Sbook/quizz/apps.py",
+		"/C/Sbook/sbook/admin.py",
+		"/C/Sbook/classroom/admin.py",
+		"/C/Sbook/sbook/wsgi.py",
+		"/C/Sbook/note/templates/note-browse.django",
+		"/C/Sbook/sbook/templates/fonts.django",
+		"/C/Sbook/staticfiles/fonts/Open_Sans/README.txt",
+		"/C/Sbook/staticfiles/styles/styles.css.map",
+		"/C/Sbook/staticfiles/styles/styles.scss",
+		"/C/Sbook/note/templates/note-upload.django",
+		"/C/Sbook/notes/1/index.html",
+		"/C/sublime_text/Data/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/sublime_text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sbook/note/source/meta.yaml",
+		"/C/Sbook/note/test-engine.py",
+		"/C/Sbook/note/forms.py",
+		"/C/Sbook/note/main.py",
+		"/C/sublime_text/Data/Packages/FileIcons/preferences/file_type_angular.tmPreferences",
+		"/C/Users/CHEF SEC/Documents/Welcome to Sbook.html",
+		"/C/Sbook/del.py",
+		"/C/sublime_text/Data/Packages/FileIcons/preferences/file_type_django.tmPreferences",
+		"/C/sublime_text/Data/Packages/FileIcons/preferences/file_type_arduino.tmPreferences",
+		"/C/Sbook/kawlo.py",
+		"/C/sublime_text/Data/Packages/SublimeBookmarks/Default.sublime-keymap",
+		"/C/sublime_text/Data/Packages/User/Default.sublime-keymap",
+		"/C/Sbook/Sbook.sublime-project",
+		"/C/sublime_text/Data/Packages/User/Django.sublime-build",
+		"/C/sublime_text/Data/Packages/User/django-output.sublime-syntax",
+		"/C/Users/Lenovo 11e/test.html",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/Sbook.sublime-project",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/sbook/settings.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5466,
+								5466
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"font_face": "Lucide Console",
+							"font_size": 10,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"rainbow_checked": true,
+							"result_base_dir": "C:\\restful",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								[
+									50,
+									"dotted"
+								],
+								[
+									79,
+									"solid",
+									2
+								],
+								500
+							],
+							"scroll_past_end": true,
+							"show_line_column": "disabled",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 1,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"powershell.exe"
+								],
+								"cwd": "C:\\restful",
+								"default_title": "PowerShell",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 15.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 118.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 134.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 151.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 146.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 220.0
+	},
+	"output.diff_views":
+	{
+		"height": 527.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 126.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "restful.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\glance\\glance.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
